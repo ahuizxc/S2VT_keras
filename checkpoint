@@ -1,2 +1,0 @@
-model_checkpoint_path: "S2VT_Dyn_10_0.0001_300_46000.ckpt"
-all_model_checkpoint_paths: "S2VT_Dyn_10_0.0001_300_46000.ckpt"
